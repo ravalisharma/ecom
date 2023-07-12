@@ -13,15 +13,6 @@ def get_filename_ext(filepath):
     name,ext=os.path.splitext(base_name)
     return name,ext
 
-
-
-
-
-
-
-
-
-
 def upload_image_path(instance, filename):
     #print(instance)
     #print(filename)
