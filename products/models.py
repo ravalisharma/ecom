@@ -17,6 +17,11 @@ def get_filename_ext(filepath):
 
 
 
+
+
+
+
+
 def upload_image_path(instance, filename):
     #print(instance)
     #print(filename)
